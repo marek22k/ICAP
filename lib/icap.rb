@@ -33,7 +33,7 @@ module ICAP
   #
   # Example:
   #   >> ICAP::calculate_bban "0x000072B1A5F4864C2BA2b14471e48Cc118264794"
-  #   => "09JD3UD9BFMRCRDS1IC6BS5MTAQ38"
+  #   => "9JD3UD9BFMRCRDS1IC6BS5MTAQ38"
   #
   # Arguments:
   #   address: (String)
