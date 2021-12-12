@@ -25,6 +25,8 @@ module ICAP
       end
     }
     checksum = 98 - (number.to_i % 97)
+    checksum = checksum.to_s
+    checksum = "0#{checksum}" if checksum.length == 1
 
     return checksum
   end
