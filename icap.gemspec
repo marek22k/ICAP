@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name        = "icap"
-  spec.version     = "1.0.1"
+  spec.version     = "1.0.2"
   spec.summary     = "Convert Ethereum addresses and Inter Exchange Client Address Protocol (ICAP) addresses."
   spec.description = "Gem, which can create Inter Exchange Client Address Protocol (ICAP) addresses from Ethereum addresses. It can also check the checksum of an ICAP address. It can also restore the Ethereum address from an ICAP address."
   spec.authors     = ["Marek Kuethe"]
