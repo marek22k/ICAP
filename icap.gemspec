@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Marek Kuethe"]
   spec.email       = "m.k@mk16.de"
   spec.files       = ["lib/icap.rb"]
-  spec.homepage    = "https://rubygems.org/gems/ICAP"
+  spec.homepage    = "https://github.com/marek22k/icap"
   spec.license     = "GPL-3.0-or-later"
   spec.add_dependency "base36", ">= 0.1.0"
 end
